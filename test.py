@@ -1,5 +1,5 @@
 import unittest
-from code.my_calculations import Calculations
+from tom_code.my_calculations import Calculations
 
 class TestCalculations(unittest.TestCase):
 
